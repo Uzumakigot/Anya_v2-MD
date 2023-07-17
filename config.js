@@ -22,10 +22,10 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
+global.botname = "Hinata Hyuga" 
 global.author = "Enter Author Name Here"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "Enter Your Any Website Profile Link Here"
+global.myweb = "https://instagram.com/manjiro_sano_edit?igshid=MjEwN2IyYWYwYw=="
 global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
@@ -34,14 +34,14 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
+global.ownername = "Manjiro"    
+global.ownernumber = ["918100195036"]
 global.ytname = "YT: Enter Your Channel Name Here"
 global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
+global.region = "India"
 global.state = "Enter Your State Name Here" // your state name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
+global.instagramId = "https://instagram.com/manjiro_sano_edit?igshid=MjEwN2IyYWYwYw=="
 global.email = "Enter Your Email ID Here"
 
 
