@@ -23,7 +23,7 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 
 
 global.botname = "Hinata Hyuga" 
-global.author = "Enter Author Name Here"  
+global.author = "Manjiro"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://instagram.com/manjiro_sano_edit?igshid=MjEwN2IyYWYwYw=="
 global.footer = "©\t" + "Enter Your Watermark Here"
